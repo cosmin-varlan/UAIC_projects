@@ -1,0 +1,11 @@
+http://localhost/UAIC_projects/UserController/auth/79b17472b1c3a678bf9bd9846261ebc5 - cosmin.varlan@gmail.com
+http://localhost/UAIC_projects/UserController/auth/cdc78de9ec3cf4fed96a5b89484773ca - cosmin.varlan@gmail.com
+http://localhost/UAIC_projects/UserController/auth/cdc78de9ec3cf4fed96a5b89484773ca - cosmin.varlan@gmail.com
+http://localhost/UAIC_projects/UserController/auth/6dc17f9e563518d8747b2b5a7efa91ad - ionut.popescu@gmail.com
+http://localhost/UAIC_projects/UserController/auth/32bfd65fbe7cfb9c1b434819f38a620f - cosmin.varlan@gmail.com
+http://localhost/UAIC_projects/UserController/auth/5b5d85351b22b5d7df72cff3c56df587 - ionut.popescu@gmail.com
+cosmin.varlan@gmail.com: "Deoarece proiectul nr. 6 de la apelul „Cosmin Call” (4319) a fost modificat, este nevoie să completați câteva date adiționale. Proiectul poate fi completat aici: http://localhost/UAIC_projects/projectsController/editProject/6"
+http://localhost/UAIC_projects/UserController/auth/2749c91421308e174c129497b0b5642a - user1@gmail.com
+http://localhost/UAIC_projects/UserController/auth/1bd59a4ec9cfbad5b505c7565437d6b6 - user2@gmail.com
+http://localhost/UAIC_projects/UserController/auth/242e78b41a96a4c82bf0da2ad78d4a28 - user1@gmail.com
+user1@gmail.com: "Deoarece proiectul nr. 5 de la apelul „sfdg” (sdfgsdfg) a fost modificat, este nevoie să completați câteva date adiționale. Proiectul poate fi completat aici: http://localhost/UAIC_projects/projectsController/editProject/5"

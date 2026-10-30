@@ -1,0 +1,124 @@
+body {
+    background-color: #f4f7fb;
+    color: #1f2937;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.fakeimg {
+   height: 200px;
+   background: #dde7f1;
+}
+.navbar-custom {
+    background-color: #1f3b52;
+}
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: rgba(255,255,255,0.9);
+}
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(255,255,255,0.75);
+    cursor: pointer;
+}
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: #6ea7cd;
+}
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,0.75)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.dropdown-menu, .dropdown-item {
+    background-color: #ffffff;
+}
+.dropdown-item {
+    color: #1f2937;
+}
+.dropdown .dropdown-menu a:hover {
+    color: #ffffff;
+    background-color: #2f80ed;
+    border-color: #ffffff;
+}
+
+.jumbotron {
+    background-color: #2f80ed;
+    color: #ffffff;
+}
+
+.top-margin {
+    margin-top: 40px;
+}
+
+h1 {
+    color: #1f2937;
+    font-size: 28px;
+}
+h2, h3, h4, h5, h6 {
+    color: #1f3b52;
+}
+
+.call-title {
+    color: #2f80ed;
+    text-decoration: underline;
+}
+
+.grape {
+    background-color: #2f80ed;
+    color: #ffffff;
+}
+.eggplant {
+    background-color: #1f3b52;
+    color: #ffffff;
+}
+.sand {
+    background-color: #e6edf5;
+}
+.shell {
+    background-color: #f4f7fb;
+}
+
+table tr td {
+    padding: 8px;
+}
+
+#ocupare {
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#ocupare > tbody > tr > td {
+    text-align: center;
+    padding: 10px;
+}
+
+#ocupare > thead > tr > th {
+    text-align: center;
+    padding: 12px;
+    background-color: #d9e8fb;
+    color: #1f3b52;
+}
+#ocupare > tbody > tr:nth-child(2n+1) {
+    background-color: #eef4fb;
+}
+
+.tabel td {
+    padding: 10px 14px;
+}
+.tabel tr:nth-child(odd) {
+    background-color: #eef4fb;
+}
+.tabel tr:first-child {
+    font-weight: bold;
+    background-color: #d9e8fb;
+}
+
+.container2 {
+    margin: 0 20px;
+}
